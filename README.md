@@ -19,7 +19,7 @@ Click <a href="https://drive.google.com/file/d/1a0vpNSj-yZDrVmlAnDktv5bB427LdobP
 
 
 ```
-git clone https://github.com/1n0ne/masaruna
+git clone https://github.com/MarahEbrahim/Masaruna-app
 ```
 <h1>License </h1>
  GNU GPLv3 
