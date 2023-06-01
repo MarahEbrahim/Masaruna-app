@@ -6,7 +6,7 @@ shortening wait times, searching for customers or
 suitable drivers, determining course times for students,
 or tracking drivers’ paths.
 <h1>DEMO </h1>
-Click <a href="https://drive.google.com/file/d/1a0vpNSj-yZDrVmlAnDktv5bB427LdobP/view?usp=sharing">her</a> to see the Demo
+Click <a href="https://drive.google.com/file/d/1a0vpNSj-yZDrVmlAnDktv5bB427LdobP/view?usp=sharing">here</a> to see the Demo
 
 <h1>Prerequisites </h1>
 <ul>
